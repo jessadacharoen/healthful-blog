@@ -15,3 +15,5 @@ tags:
     name: โภชนาการ
   - slug: sleep
     name: การนอน
+  - slug: covid-19
+    name: โควิด-19
