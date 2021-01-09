@@ -16,20 +16,20 @@ export function SocialList({}) {
         <Facebook width={24} height={24} fill={"#222"} />
       </a>
       <a
-        title="Twitter"
-        href={`https://twitter.com/${config.twitter_account}`}
-        target="_blank"
-        rel="noopener"
-      >
-        <Twitter width={24} height={24} fill={"#222"} />
-      </a>
-      <a
         title="Instagram"
         href={`https://instagram.com/${config.instagram_account}`}
         target="_blank"
         rel="noopener"
       >
         <Instagram width={24} height={24} fill={"#222"} />
+      </a>
+      <a
+        title="Twitter"
+        href={`https://twitter.com/${config.twitter_account}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <Twitter width={24} height={24} fill={"#222"} />
       </a>
       <style jsx>{`
         a {
