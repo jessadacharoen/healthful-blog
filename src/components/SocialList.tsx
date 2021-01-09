@@ -1,4 +1,5 @@
 import React from "react";
+import Facebook from "../assets/facebook-alt.svg";
 import Twitter from "../assets/twitter-alt.svg";
 import GitHub from "../assets/github-alt.svg";
 import config from "../lib/config";
@@ -6,6 +7,14 @@ import config from "../lib/config";
 export function SocialList({}) {
   return (
     <div>
+      <a
+        title="Facebook"
+        href={`https://facebook.com/${config.facebook_account}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <Facebook width={24} height={24} fill={"#222"} />
+      </a>
       <a
         title="Twitter"
         href={`https://twitter.com/${config.twitter_account}`}

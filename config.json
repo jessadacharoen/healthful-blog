@@ -1,9 +1,10 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "base_url": "https://healthful.netlify.app",
   "site_title": "Healthful รู้เรื่องสุขภาพ",
   "site_description": "รอบรู้เรื่องการดูแลสุขภาพและไลฟ์สไตล์ โดยผู้เชี่ยวชาญด้านสุขภาพ",
   "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
+  "facebook_account": "Healthfulbkk",
   "github_account": "wutali"
 }
