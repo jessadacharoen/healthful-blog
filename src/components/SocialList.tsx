@@ -1,7 +1,7 @@
 import React from "react";
 import Facebook from "../assets/facebook-alt.svg";
 import Twitter from "../assets/twitter-alt.svg";
-import GitHub from "../assets/github-alt.svg";
+import Instagram from "../assets/instagram-alt.svg";
 import config from "../lib/config";
 
 export function SocialList({}) {
@@ -22,6 +22,14 @@ export function SocialList({}) {
         rel="noopener"
       >
         <Twitter width={24} height={24} fill={"#222"} />
+      </a>
+      <a
+        title="Instagram"
+        href={`https://instagram.com/${config.instagram_account}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <Instagram width={24} height={24} fill={"#222"} />
       </a>
       <style jsx>{`
         a {
