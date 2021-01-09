@@ -1,11 +1,11 @@
 {
-  "base_url": "https://healthful.netlify.app",
-  "site_title": "Healthful รู้เรื่องสุขภาพ",
-  "site_description": "รอบรู้เรื่องการดูแลสุขภาพและไลฟ์สไตล์ โดยผู้เชี่ยวชาญด้านสุขภาพ",
-  "site_keywords": [],
-  "posts_per_page": 5,
-  "twitter_account": "@my-account",
   "instagram_account": "@my-account",
+  "site_title": "Healthful รู้เรื่องสุขภาพ",
+  "twitter_account": "@my-account",
+  "base_url": "https://healthfullly.netlify.app",
+  "site_keywords": [],
+  "site_description": "รอบรู้เรื่องการดูแลสุขภาพและไลฟ์สไตล์ โดยผู้เชี่ยวชาญด้านสุขภาพ",
+  "github_account": "wutali",
   "facebook_account": "Healthfulbkk",
-  "github_account": "wutali"
+  "posts_per_page": 5
 }
