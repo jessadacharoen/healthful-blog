@@ -1,7 +1,7 @@
 export default function Copyright() {
   return (
     <>
-      <p>&copy; 2020</p>
+      <p>&copy; 2020 Healthful, Inc.</p>
       <style jsx>
         {`
           p {
