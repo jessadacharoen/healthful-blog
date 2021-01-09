@@ -23,7 +23,7 @@ export default function Navigation() {
                   router.pathname.startsWith("/posts") ? "active" : null
                 }
               >
-                บทความสุขภาพ
+                เรื่องสุขภาพ
               </a>
             </Link>
           </li>
